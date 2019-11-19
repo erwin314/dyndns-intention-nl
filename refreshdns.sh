@@ -8,5 +8,5 @@ while :; do
     echo "Result from intention.nl: ${RESULT}"
     OLDIP="$MYIP"
   fi
-  sleep 5m; 
+  sleep 60m; 
 done
